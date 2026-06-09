@@ -1,7 +1,12 @@
 
 # mod_http2 - http/2 for Apache httpd
 
-This repository contains `mod_http2` and `mod_proxy_http2` from Apache httpd as a standalone build. It servers as early access to features and fixes before being shipped in the next Apache release. Both modules can be considered **production ready** and stable as shipped by the Apache project.
+This repository is now **archived** and **no longer maintained**. The module lives on as part of
+[the Apache httpd project](https://httpd.apache.org) and is maintained there. The current LLM 
+craziness does not allow me the time and mental resources to keep on providing a separate and
+for many people more convenient place here.
+
+My thanks to all the contributors over the last decade who helped out.
 
 ## What is it good for?
 
